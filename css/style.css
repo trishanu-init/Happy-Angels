@@ -462,6 +462,15 @@ h6,
   );
 }
 
+/* blog */
+
+.blog-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1rem;
+}
+
 /*** Footer ***/
 .footer {
   margin-top: 6rem;
