@@ -542,3 +542,8 @@ h6,
   padding-right: 0;
   border-right: none;
 }
+
+.about-logo {
+  font-size: 0.6rem;
+  font-family: emoji;
+}
